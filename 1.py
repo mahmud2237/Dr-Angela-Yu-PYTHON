@@ -16,6 +16,7 @@ steak
 pizza
 """
 
+
 # create the favorite_food variable
 favorite_food = "steak"
 
