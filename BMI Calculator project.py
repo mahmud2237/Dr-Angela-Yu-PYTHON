@@ -2,7 +2,9 @@
 Let's make an application which is called BMI Calculator. The program will calculates the Body Mass Index(BMI) from a users weight and height.
 BMI is calculated by dividing a persons weight(in kg) by the square of their height(in m).
 
-BMI = weight(kg) / (height * height)          # height * height => height**2
+BMI = weight(kg) / (height * height) 
+         
+# height * height => height**2
 
 '''
 
